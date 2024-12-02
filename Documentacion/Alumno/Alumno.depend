@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733103879 source:c:\users\elyeb\onedrive\desktop\2024-c3_rep\documentacion\alumno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
